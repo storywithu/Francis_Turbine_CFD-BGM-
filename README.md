@@ -3,9 +3,9 @@
 ### A. System Geometry & Boundary Conditions ### 
 ![Geometry]<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/5b9000ba-162b-4141-a5d1-881439c7ec48" />
 ### B. Mesh Configuration & Quality (Overall Score: 0.670)### 
-![Geometry]<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/eb0b88f2-280f-43e7-b781-e1eb1d6838c1" />
+![Mesh]<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/eb0b88f2-280f-43e7-b781-e1eb1d6838c1" />
 ### C. Flow Dynamics Result ### 
-![Geometry]<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/ca820a7f-db5a-4a70-8eb6-5ce149fe61c3" />
+!Result]<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/ca820a7f-db5a-4a70-8eb6-5ce149fe61c3" />
 
 ---
 
