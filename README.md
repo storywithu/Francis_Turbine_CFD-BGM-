@@ -1,6 +1,16 @@
 # Project: Performance Analysis of Francis Turbine (Steady-state RANS)
 
 ### A. System Geometry & Boundary Conditions ### 
+#### Geometry & Specifications
+| Specification | Value | Note |
+| :--- | :--- | :--- |
+| **Runner Diameter** | 0.108 m | Effective runner diameter |
+| **Runner Cavity Volume Diameter** | 0.132 m | Total fluid volume in the runner chamber |
+| **Inlet Port Diameter** | 0.02295 m | High-pressure water entry |
+| **Outlet Port Diameter** | 0.02286 m | Low-pressure water exit |
+| **Port Length (Inlet)** | 0.33 m | Guide vane to runner transition distance |
+| **Blade Number** | 8 ea | Number of runner blades |
+
 ![Geometry]<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/5b9000ba-162b-4141-a5d1-881439c7ec48" />
 ### B. Mesh Configuration & Quality (Overall Score: 0.670)### 
 ![Mesh]<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/eb0b88f2-280f-43e7-b781-e1eb1d6838c1" />
@@ -25,7 +35,6 @@
 - **Boundary Conditions**: 
   - Inlet: Velocity inlet (7.273 m/s, Design Point)
   - Outlet: Pressure outlet (0 Pa gauge)
-- **Geometry Specs**: Runner Diameter = 0.108 m / Runner Cavity Volume Diameter = 0.132 m
 - **Rotation Speed**: 250 rad/s (MRF Domain)
 - **Mesh**: Automated mesh with local refinement at blade surfaces (Overall Mesh Quality Score: 0.670!)
 
