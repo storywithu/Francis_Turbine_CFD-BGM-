@@ -16,6 +16,8 @@
 ![Mesh]<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/eb0b88f2-280f-43e7-b781-e1eb1d6838c1" />
 ### C. Flow Dynamics Result ### 
 !Result]<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/ca820a7f-db5a-4a70-8eb6-5ce149fe61c3" />
+**- Residuals Plot**: Confirmed convergence of the governing equations.
+<img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/3549d9eb-7d05-421b-a2f7-8099859d8b44" />
 
 ---
 
@@ -37,6 +39,13 @@
   - Outlet: Pressure outlet (0 Pa gauge)
 - **Rotation Speed**: 250 rad/s (MRF Domain)
 - **Mesh**: Automated mesh with local refinement at blade surfaces (Overall Mesh Quality Score: 0.670!)
+
+| Parameter | Simulation Setting |
+| :--- | :--- |
+| **Turbulence Model** | k-omega SST |
+| **Algorithm** | SIMPLE |
+
+*Note: The **k-omega SST** model was selected for its superior ability to predict flow separation and adverse pressure gradients near the bucket/blade surfaces.*
 
 ---
 
