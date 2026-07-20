@@ -1,5 +1,10 @@
 # Project: Performance Analysis of Francis Turbine (Steady-state RANS)
-
+### 🛠 Technical Environment & Tools
+- **Software:** SimScale (Cloud-based CFD only Analysis)
+- **Solver Type:** Imcompressible 
+- **Pre/Post-processing:** SimScale Integrated Workbench
+- **Data Visualization:** Paraview / SimScale Post-processing module
+  
 ### A. System Geometry & Boundary Conditions ### 
 #### Geometry & Specifications
 | Specification | Value | Note |
