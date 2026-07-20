@@ -24,7 +24,7 @@
 ### 1. Project Overview
 - **Objective**: Evaluation of hydraulic performance and internal flow characteristics (Runner efficiency, pressure distribution).
 - **Methodology**: Steady-state RANS (Reynolds-Averaged Navier-Stokes) simulation using the MRF(Moving Reference Frame) approach to focus on power extraction efficiency and flow field visualization.
-- **Project Period**: 2019.Aug ~ 2019.Aug
+- **Project Period**: 2019.Aug ~ 2019.Sep
 - **Repository Note**: This project documentation was archived in 2026.
 
 ---
